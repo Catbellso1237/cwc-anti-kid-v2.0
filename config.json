@@ -1,0 +1,36 @@
+{
+  "categories": [
+    {
+      "name": "📢 THÔNG BÁO",
+      "channels": [
+        { "name": "welcome", "type": "text" },
+        { "name": "rules", "type": "text" },
+        { "name": "announcements", "type": "text" }
+      ]
+    },
+    {
+      "name": "💬 TRÒ CHUYỆN",
+      "channels": [
+        { "name": "general", "type": "text" },
+        { "name": "chat-tự-do", "type": "text" },
+        { "name": "meme", "type": "text" },
+        { "name": "ảnh-video", "type": "text" }
+      ]
+    },
+    {
+      "name": "🎤 VOICE",
+      "channels": [
+        { "name": "Voice Chung 1", "type": "voice" },
+        { "name": "Voice Chung 2", "type": "voice" },
+        { "name": "AFK", "type": "voice" }
+      ]
+    },
+    {
+      "name": "🛠️ MOD AREA",
+      "channels": [
+        { "name": "mod-logs", "type": "text" },
+        { "name": "mod-chat", "type": "text" }
+      ]
+    }
+  ]
+}
