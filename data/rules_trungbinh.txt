@@ -1,0 +1,20 @@
+## 🟡 NỘI QUY SERVER — Mức độ: Trung bình
+
+### 1. Hành vi & giao tiếp
+- Tôn trọng mọi thành viên, không công kích cá nhân, không miệt thị, không phân biệt đối xử.
+- Không spam tin nhắn/emoji/@mention, không viết hoa toàn bộ (caps lock) gây khó chịu.
+
+### 2. Nội dung
+- Không đăng nội dung NSFW, bạo lực, hoặc nhạy cảm ở bất kỳ kênh nào (kể cả kênh voice/status).
+- Không quảng cáo server khác, sản phẩm, hoặc link ngoài khi chưa được Admin cho phép.
+
+### 3. Kênh & voice chat
+- Dùng đúng kênh cho đúng mục đích (không chat ngoài lề trong kênh thông báo, không spam kênh voice-text).
+- Không gây ồn/spam mic trong voice channel.
+
+### 4. Xử lý vi phạm
+Vi phạm sẽ xử lý theo trình tự: **Nhắc nhở → Mute → Kick → Ban**, tùy mức độ nghiêm trọng.
+Trường hợp vi phạm nghiêm trọng (spam link độc hại, raid, quấy rối) có thể bị ban ngay không cần cảnh báo trước.
+
+### 5. Quyền quyết định
+Đội ngũ Staff có quyền quyết định cuối cùng trong các tình huống không được liệt kê rõ ở trên.

@@ -1,0 +1,32 @@
+## 🔴 NỘI QUY SERVER — Mức độ: Nghiêm khắc
+
+### 1. Hành vi ứng xử
+- Tôn trọng tuyệt đối mọi thành viên và đội ngũ Staff. Nghiêm cấm công kích cá nhân, xúc phạm,
+  phân biệt chủng tộc/giới tính/tôn giáo/vùng miền dưới mọi hình thức.
+- Nghiêm cấm gây gổ, kích động xung đột, hoặc lôi kéo bè phái trong server.
+
+### 2. Bảo mật & an toàn server
+- Nghiêm cấm hành vi spam/raid/nuke server (xóa kênh, xóa role, ban/kick hàng loạt trái phép).
+- Nghiêm cấm chia sẻ token bot, thông tin đăng nhập, hoặc công cụ tấn công server dưới mọi hình thức.
+- Không được cấp quyền Administrator cho bất kỳ ai/bot nào khi chưa có sự đồng ý của Admin cấp cao.
+
+### 3. Nội dung & quảng cáo
+- Nghiêm cấm hoàn toàn nội dung NSFW, bạo lực cực đoan, ma túy, hoặc nội dung vi phạm pháp luật.
+- Nghiêm cấm quảng cáo, gửi link không rõ nguồn gốc, hoặc phát tán phần mềm độc hại/phishing.
+- Nghiêm cấm phát tán thông tin cá nhân (doxxing) của bất kỳ ai trong hoặc ngoài server.
+
+### 4. Voice chat & kênh
+- Không gây ồn, phát nhạc/âm thanh gây khó chịu, hoặc chiếm dụng voice channel sai mục đích.
+- Dùng đúng kênh cho đúng mục đích; spam sai kênh sẽ bị xử lý như spam thông thường.
+
+### 5. Quy trình xử lý vi phạm
+| Mức độ | Xử lý |
+|---|---|
+| Cảnh cáo lần 1 | Nhắc nhở công khai / riêng tư |
+| Cảnh cáo lần 2 | Timeout (mute) tạm thời |
+| Cảnh cáo lần 3 | Kick khỏi server |
+| Vi phạm nghiêm trọng (raid, nuke, doxxing, nội dung cấm) | **Ban vĩnh viễn ngay lập tức**, không cần cảnh báo trước |
+
+### 6. Quyền quyết định cuối cùng
+Đội ngũ Staff/Admin có toàn quyền quyết định trong mọi tình huống không được quy định rõ ở trên,
+kể cả việc thay đổi nội quy khi cần thiết để bảo vệ server.
