@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dữ liệu runtime tự sinh ra, không nên commit
+data/warnings.json
+data/guild_config.json
+data/global_bans.json
+data/bridge_channels.json
+data/economy.db
