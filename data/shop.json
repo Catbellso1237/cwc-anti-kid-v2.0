@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "name": "🎣 Cần Câu",
+      "price": 200,
+      "description": "Dùng để đi câu cá kiếm thêm tiền (dùng lệnh !fish sau khi mua)"
+    },
+    {
+      "name": "🛡️ Khiên Chống Rob",
+      "price": 500,
+      "description": "Miễn nhiễm 1 lần bị !rob"
+    },
+    {
+      "name": "🎫 VIP Ticket",
+      "price": 1000,
+      "description": "Vật phẩm danh dự, khoe với bạn bè"
+    },
+    {
+      "name": "💎 Kim Cương",
+      "price": 5000,
+      "description": "Vật phẩm hiếm, chỉ để sưu tầm"
+    }
+  ]
+}
+
